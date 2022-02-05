@@ -4,17 +4,169 @@ title: Calendar
 uid: bedd7ae7-0b60-c9d3-78f7-e70199de0c7e
 ---
 
-| week # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Writing Simple Perl Programs |  |
-| 2 | What is Learning?  {{< br >}}  {{< br >}}Basic Terms and Concepts | Assignment 1 due |
-| 3 | Learning Models (for Phonology) | Assignment 2 due |
-| 4 | Calculating Statistical Generalizations | Assignment 3 due |
-| 5 | Statistical Models (cont.) | Assignment 4 due |
-| 6 | Learning OT Grammars - Introduction | Assignment 5 due |
-| 7 | Learning in OT (cont.) - Ranking Biases | Assignment 6 due |
-| 8 | Learning in OT (cont.) - Reasoning about Rankings | Assignment 7 due |
-| 9 | Learning in OT (cont.) - Stochastic Constraint Ranking | Assignment 8 due  {{< br >}}  {{< br >}}Talk with me about project topics |
-| 10 | Learning in OT (cont.) |  |
-| 11 | Learning Alternations |  |
-| 12 | Learning Alternations (cont.) | Final project due five days after week 12
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Writing Simple Perl Programs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What is Learning?  
+  
+Basic Terms and Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Models (for Phonology)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Calculating Statistical Generalizations
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Models (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Learning OT Grammars - Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Ranking Biases
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Reasoning about Rankings
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Stochastic Constraint Ranking
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due  
+  
+Talk with me about project topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Alternations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Alternations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due five days after week 12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,20 +4,181 @@ title: Readings
 uid: dc14c88d-14eb-6b6a-99b5-789f7f806c8c
 ---
 
-| week # | TOPICS | Readings |
-| --- | --- | --- |
-| 1 | Introduction: Writing Simple Perl Programs | Hutchinson, Alan. Chapter 1 in _Algorithmic Learning_. New York: Oxford University Press, 1994. ISBN: 0198538480. |
-| 2 | What is Learning?  {{< br >}}  {{< br >}}Basic Terms and Concepts | Weiss, Sholom M., and Casimir A. Kulikowski. "How to Estimate the True Performance of a Learning System." Chapter 2 in _Computer Systems that Learn: Classification and Prediction Methods from Statistics, Neural Nets, Machine Learning, and Expert Systems_. San Mateo, CA: Morgan Kaufmann Publishers, Inc., January 1, 1991. ISBN: 1558600655. |
-| 3 | Learning Models (for Phonology) | Jusczyk, P. W., A. Friderici, J. M. Wessels, V. Y. Svenkerud, and A. M. Jusczyk. "Infants' Sensitivity to the Sound Patterns of Native Language Words." _Journal of Memory and Language_ 32 (1993): 402-420.  {{< br >}}  {{< br >}}Coleman, John S., and Janet B. Pierrehumbert. "Stochastic Phonological Grammars and Acceptability." In _Computational Phonology: Third Meeting of the ACL Special Interest Group in Computational Phonology._ Somerset, NJ: Association for Computational Linguistics, 1997, pp. 49–56.  {{< br >}}  {{< br >}}Tjong, Erik F., Kim Sang, and John Nerbonne. "Learning the Logic of Simple Phonotactics." In _Learning Language in Logic_. Vol. 1925 of Lecture Notes in Computer Science. New York: Springer Verlag, 2000, pp. 110–124. ISBN: 3540411453. |
-| 4 | Calculating Statistical Generalizations | Tesar, B., and P. Smolensky. "Learnability in Optimality Theory (Short Version)." Technical Report JHU-CogSci-96-2, Cognitive Science Department, The Johns Hopkins University. ROA-155, 1996.  {{< br >}}\[A revised version of this paper has appeared as: Tesar, and Smolensky. "Learnability in Optimality Theory." _Linguistic Inquiry_ 29 (1998): 229-268.\]  {{< br >}}  {{< br >}}Prince, A., and B. Tesar. "Learning Phonotactic Distributions." In _Fixing Priorities: Constraints in Phonological Acquisition_. Edited by R. Kager, J. Pater, and W. Zonneveld. Cambridge, UK: Cambridge University Press, 2004. ISBN: 0521829631. |
-| 5 | Statistical Models (cont.) | Hayes, B. "Phonological Acquisition in Optimality Theory: The Early Stages." In _Fixing Priorities: Constraints in Phonological Acquisition_. Edited by R. Kager, J. Pater, and W. Zonneveld. Cambridge, UK: Cambridge University Press, 2004. ISBN: 0521829631.  {{< br >}}  {{< br >}}Boersma, Paul, and Bruce Hayes. "Empirical Tests of the Gradual Learning Algorithm." _Linguistic Inquiry_ 32, no. 1 (2001): 45–86.  {{< br >}}  {{< br >}}Albro, Daniel M. "A Probabilistic Ranking Learner for Phonotactics." _Proceedings of the 2000 Conference of the Linguistics Society of America._ Chicago, IL, 2000. |
-| 6 | Learning OT Grammars - Introduction | Bailey, Todd, and Ulrike Hahn. "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?" _Journal of Memory and Language_ 44 (2001): 568–591. |
-| 7 | Learning in OT (cont.) - Ranking Biases | Eddington (2003). |
-| 8 | Learning in OT (cont.) - Reasoning about Rankings | [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/probabilistic-linguistics) Pierrehumbert, J. "Probabilistic Phonology: Discrimation and Robustness." In [_Probabilistic Linguistics_](https://mitpress.mit.edu/books/probabilistic-linguistics). Edited by R. Bod, J. Hay, and S. Jannedy. Cambridge, MA: MIT Press, 2003. ISBN: 0262025361. |
-| 9 | Learning in OT (cont.) - Stochastic Constraint Ranking | Zuraw, Kie. Selections, 2004. |
-| 10 | Learning in OT (cont.) | Tesar, Bruce, and Alan Prince. "Using Phonotactics to Learn Phonological Alternations." \[To appear in _The Proceedings of CLS 39_, Vol. II: The Panels. ROA-620.\] |
-| 11 | Learning Alternations | Albright, Adam, and Bruce Hayes. "Modeling English Past Tense Intuitions with Minimal Generalization." In _Proceedings of the Sixth Meeting of the ACL Special Interest Group in Computational Phonology_. Edited by Michael Maxwell. Philadelphia: ACL, July 2002. |
-| 12 | Learning Alternations (cont.) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Writing Simple Perl Programs
+{{< tdclose >}}
+{{< tdopen >}}
+Hutchinson, Alan. Chapter 1 in _Algorithmic Learning_. New York: Oxford University Press, 1994. ISBN: 0198538480.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What is Learning?  
+  
+Basic Terms and Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Weiss, Sholom M., and Casimir A. Kulikowski. "How to Estimate the True Performance of a Learning System." Chapter 2 in _Computer Systems that Learn: Classification and Prediction Methods from Statistics, Neural Nets, Machine Learning, and Expert Systems_. San Mateo, CA: Morgan Kaufmann Publishers, Inc., January 1, 1991. ISBN: 1558600655.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Models (for Phonology)
+{{< tdclose >}}
+{{< tdopen >}}
+Jusczyk, P. W., A. Friderici, J. M. Wessels, V. Y. Svenkerud, and A. M. Jusczyk. "Infants' Sensitivity to the Sound Patterns of Native Language Words." _Journal of Memory and Language_ 32 (1993): 402-420.  
+  
+Coleman, John S., and Janet B. Pierrehumbert. "Stochastic Phonological Grammars and Acceptability." In _Computational Phonology: Third Meeting of the ACL Special Interest Group in Computational Phonology._ Somerset, NJ: Association for Computational Linguistics, 1997, pp. 49–56.  
+  
+Tjong, Erik F., Kim Sang, and John Nerbonne. "Learning the Logic of Simple Phonotactics." In _Learning Language in Logic_. Vol. 1925 of Lecture Notes in Computer Science. New York: Springer Verlag, 2000, pp. 110–124. ISBN: 3540411453.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Calculating Statistical Generalizations
+{{< tdclose >}}
+{{< tdopen >}}
+Tesar, B., and P. Smolensky. "Learnability in Optimality Theory (Short Version)." Technical Report JHU-CogSci-96-2, Cognitive Science Department, The Johns Hopkins University. ROA-155, 1996.  
+\[A revised version of this paper has appeared as: Tesar, and Smolensky. "Learnability in Optimality Theory." _Linguistic Inquiry_ 29 (1998): 229-268.\]  
+  
+Prince, A., and B. Tesar. "Learning Phonotactic Distributions." In _Fixing Priorities: Constraints in Phonological Acquisition_. Edited by R. Kager, J. Pater, and W. Zonneveld. Cambridge, UK: Cambridge University Press, 2004. ISBN: 0521829631.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Models (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Hayes, B. "Phonological Acquisition in Optimality Theory: The Early Stages." In _Fixing Priorities: Constraints in Phonological Acquisition_. Edited by R. Kager, J. Pater, and W. Zonneveld. Cambridge, UK: Cambridge University Press, 2004. ISBN: 0521829631.  
+  
+Boersma, Paul, and Bruce Hayes. "Empirical Tests of the Gradual Learning Algorithm." _Linguistic Inquiry_ 32, no. 1 (2001): 45–86.  
+  
+Albro, Daniel M. "A Probabilistic Ranking Learner for Phonotactics." _Proceedings of the 2000 Conference of the Linguistics Society of America._ Chicago, IL, 2000.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Learning OT Grammars - Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Bailey, Todd, and Ulrike Hahn. "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?" _Journal of Memory and Language_ 44 (2001): 568–591.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Ranking Biases
+{{< tdclose >}}
+{{< tdopen >}}
+Eddington (2003).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Reasoning about Rankings
+{{< tdclose >}}
+{{< tdopen >}}
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/probabilistic-linguistics) Pierrehumbert, J. "Probabilistic Phonology: Discrimation and Robustness." In [_Probabilistic Linguistics_](https://mitpress.mit.edu/books/probabilistic-linguistics). Edited by R. Bod, J. Hay, and S. Jannedy. Cambridge, MA: MIT Press, 2003. ISBN: 0262025361.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.) - Stochastic Constraint Ranking
+{{< tdclose >}}
+{{< tdopen >}}
+Zuraw, Kie. Selections, 2004.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Learning in OT (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Tesar, Bruce, and Alan Prince. "Using Phonotactics to Learn Phonological Alternations." \[To appear in _The Proceedings of CLS 39_, Vol. II: The Panels. ROA-620.\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Alternations
+{{< tdclose >}}
+{{< tdopen >}}
+Albright, Adam, and Bruce Hayes. "Modeling English Past Tense Intuitions with Minimal Generalization." In _Proceedings of the Sixth Meeting of the ACL Special Interest Group in Computational Phonology_. Edited by Michael Maxwell. Philadelphia: ACL, July 2002.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Alternations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Supplemental Readings
 
