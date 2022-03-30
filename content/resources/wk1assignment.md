@@ -9,6 +9,7 @@ description: 'The goal of this assignment is to get familiar with some Perl synt
   transcription.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/c4a889d99ceb9b3ba77ca0c5298faa58_wk1assignment.pdf
 file_type: application/pdf
+parent_uid: 7a6c9b94-7419-dcf7-8fcd-5a6f93517865
 resourcetype: Document
 title: wk1assignment.pdf
 uid: c4a889d9-9ceb-9b3b-a77c-a0c5298faa58
